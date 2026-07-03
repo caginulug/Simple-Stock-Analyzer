@@ -3,6 +3,8 @@ Simple Stock Analyzer
 A Python script that downloads historical stock data from Yahoo Finance and calculates basic financial performance.
 
 ------------Calculated Metrics-------------
+
+
 Historical Annualized Return
 Annualized Volatility
 Beta
